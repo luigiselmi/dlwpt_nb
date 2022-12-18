@@ -5,5 +5,5 @@ about machine learning and deep learning, mostly based on scikit-learn and PyTor
 
 * [Python Machine Learning, 3rd Edition](pml3/)
 * [Deep Learning with Pytorch](dlwpt/)
-* [PyTorch Tutorials](pytorch_tutorials/)
+* [PyTorch Tutorials](pytorch_tut/)
 
