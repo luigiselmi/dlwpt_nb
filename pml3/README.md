@@ -9,5 +9,5 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 5. [K-nearest neighbors (ch.3)](k-nearest_neighbors.ipynb)
 6. [Data pre-processing (ch.4)](data_pre-processing.ipynb)
 7. [Dimensionality reduction (ch.5)](data_compression.ipynb)
-8. [Model evaluation and hyperparameters tuning](model_evaluation.ipynb)
-9. [Multilayer perceptron](multilayer_perceptron.ipynb)
+8. [Model evaluation and hyperparameters tuning (ch.6)](model_evaluation.ipynb)
+9. [Multilayer perceptron (ch.11)](multilayer_perceptron.ipynb)
