@@ -11,3 +11,5 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 7. [Dimensionality reduction (ch.5)](data_compression.ipynb)
 8. [Model evaluation and hyperparameters tuning (ch.6)](model_evaluation.ipynb)
 9. [Multilayer perceptron (ch.11)](multilayer_perceptron.ipynb)
+10. [PyTorch (ch.12)](pytorch.ipynb)  
+11. [PyTorch Computational Graph and Automatic Differentiation](computation_graph_and_autodiff.ipynb)  
