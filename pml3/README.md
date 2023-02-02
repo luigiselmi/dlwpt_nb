@@ -13,3 +13,4 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 9. [Multilayer perceptron (ch.11)](multilayer_perceptron.ipynb)
 10. [PyTorch (ch.12)](pytorch.ipynb)  
 11. [PyTorch Computational Graph and Automatic Differentiation (ch.13)](computation_graph_and_autodiff.ipynb)  
+12. [Convolutional Neural Networks](convolutional_neural_networks.ipynb)
