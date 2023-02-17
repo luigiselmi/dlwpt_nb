@@ -15,3 +15,4 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 11. [PyTorch Computational Graph and Automatic Differentiation (ch.13)](computation_graph_and_autodiff.ipynb)  
 12. [Convolutional Neural Networks (ch.14)](convolutional_neural_networks.ipynb)
 13. [EuroSAT classification (ch.14)](eurosat_images_classification.ipynb)
+14. [Recurrent neural networks (ch.15)](recurrent_neural_networks.ipynb)]
