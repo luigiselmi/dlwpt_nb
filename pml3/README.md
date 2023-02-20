@@ -10,7 +10,7 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 6. [Data pre-processing (ch.4)](data_pre-processing.ipynb)
 7. [Dimensionality reduction (ch.5)](data_compression.ipynb)
 8. [Model evaluation and hyperparameters tuning (ch.6)](model_evaluation.ipynb)
-9. [Sentiment Analysis](sentiment_analysis.ipynb)
+9. [Sentiment Analysis (ch.8)](sentiment_analysis.ipynb)
 10. [Multilayer perceptron (ch.11)](multilayer_perceptron.ipynb)
 11. [PyTorch (ch.12)](pytorch.ipynb)  
 12. [PyTorch Computational Graph and Automatic Differentiation (ch.13)](computation_graph_and_autodiff.ipynb)  
