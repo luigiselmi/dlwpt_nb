@@ -18,3 +18,4 @@ Notes from the book [Python Machine Learning with PyTorch and Scikit-Learn](http
 14. [EuroSAT classification (ch.14)](eurosat_images_classification.ipynb)
 15. [Recurrent neural networks (ch.15)](recurrent_neural_networks.ipynb)]
 16. [Modeling Sequential Data (ch.15)](char_level_language_model.ipynb)
+17. [Attention Mechanism (ch.16)](attention_mechanism.ipynb)
